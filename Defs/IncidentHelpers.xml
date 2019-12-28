@@ -9,4 +9,14 @@
     <incidentHelper>ToolkitLordOfTheRimsPatch.IncidentHelper_AncientDwarvenStronghold</incidentHelper>
     <karmaType>Good</karmaType>
   </TwitchToolkit.Incidents.StoreIncidentSimple>
+
+  <TwitchToolkit.Votes.VotingIncident>
+    <defName>DwarvenAncientStronghold</defName>
+    <label>dwarven ancient stronghold</label>
+    <weight>5</weight>
+    <storyteller>ToryTalker</storyteller>
+    <eventType>Neutral</eventType>
+    <eventCategory>Environment</eventCategory>
+    <votingHelper>ToolkitLordOfTheRimsPatch.VoteHelper_AncientDwarvenStronghold</votingHelper>
+  </TwitchToolkit.Votes.VotingIncident>
 </Defs>

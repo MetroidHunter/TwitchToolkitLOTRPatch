@@ -4,6 +4,7 @@
   <version>1.20.0.6</version>
   <dependencies>
     <li>TwitchToolkit</li>
+    <li>ToolkitPatchLib</li>
     <li>LotR-Dwarves</li>
   </dependencies>
   <incompatibleWith />
@@ -14,5 +15,6 @@
     <li>LotR-TheThirdAge</li>
     <li>LotR-Dwarves</li>
     <li>TwitchToolkit</li>
+    <li>ToolkitPatchLib</li>
   </loadAfter>
 </Manifest>
