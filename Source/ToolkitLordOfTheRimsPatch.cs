@@ -7,7 +7,7 @@ namespace ToolkitLordOfTheRimsPatch
     {
         public ToolkitLordOfTheRimsPatch(ModContentPack content) : base(content)
         {
-            Logger.LOGGERNAME = "TLOTR";
+            ToolkitPatchLogger.LOGGERNAME = "TLOTR";
         }
 
         public override string SettingsCategory() => "Toolkit LOTR Patch";
